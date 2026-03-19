@@ -1,4 +1,4 @@
-<!-- ====== Banner superior ====== -->
+<!-- ====== Top Banner ====== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=LookIsSai!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Dev%20%7C%20Networking%20%7C%20Cybersecurity&descAlignY=60&descSize=22" width="1000">
 </div>
@@ -45,11 +45,11 @@
 
 <div align="center">
 
-- 🔍 Análisis de tráfico con **Wireshark**  
-- 🧠 Escaneo de redes con **Nmap**  
-- 🐧 Uso de **Kali Linux** para pruebas de seguridad  
-- 🌐 Configuración e interconexión de redes  
-- 🛡️ Fundamentos de ciberseguridad y hacking ético  
+- 🔍 Traffic analysis with **Wireshark**  
+- 🧠 Network scanning with **Nmap**  
+- 🐧 Using **Kali Linux** for security testing  
+- 🌐 Network configuration and interconnection  
+- 🛡️ Cybersecurity fundamentals and ethical hacking  
 
 </div>
 
@@ -74,15 +74,15 @@
 
 </div>
 
-- 🔭 Desarrollo de software en **C#, C++ y Java**
-- 🌱 Aprendiendo **redes avanzadas y ciberseguridad**
-- 👯 Colaboración en proyectos de **backend y seguridad**
-- 💬 Pregúntame sobre **programación, redes y hacking ético**
-- 📫 Contacto: **zeoxtar@gmail.com**
+- 🔭 Software development in **C#, C++ and Java**
+- 🌱 Learning **advanced networking and cybersecurity**
+- 👯 Collaborating on **backend and security projects**
+- 💬 Ask me about **programming, networking, and ethical hacking**
+- 📫 Contact: **zeoxtar@gmail.com**
 
 ---
 
-<!-- ====== Banner inferior ====== -->
+<!-- ====== Bottom Banner ====== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=120&section=footer&text=Stay%20Secure%20%F0%9F%9B%A1%EF%B8%8F&fontSize=35&fontColor=ffffff&animation=fadeIn" width="1000">
 </div>
