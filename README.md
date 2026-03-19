@@ -78,7 +78,7 @@
 - 🌱 Aprendiendo **redes avanzadas y ciberseguridad**
 - 👯 Colaboración en proyectos de **backend y seguridad**
 - 💬 Pregúntame sobre **programación, redes y hacking ético**
-- 📫 Contacto: **zeoxtar@example.com**
+- 📫 Contacto: **zeoxtar@gmail.com**
 
 ---
 
