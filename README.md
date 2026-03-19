@@ -1,16 +1,88 @@
-## Hi there 👋
+<!-- ====== Banner superior ====== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=LookIsSai!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Dev%20%7C%20Networking%20%7C%20Cybersecurity&descAlignY=60&descSize=22" width="1000">
+</div>
 
-<!--
-**Popolita1939/Popolita1939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### ⚡ Software Developer | 🌐 Networking | 🛡️ Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=C%23+Developer;C%2B%2B+Programmer;Java+Developer;Networking+Enthusiast;Cybersecurity+Learner" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Popolita1939&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/Popolita1939?label=Followers&style=social" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 Tech Stack
+
+</div>
+
+| Programming | Web | Databases | Tools |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=cs,cpp,java" height="35"> | <img src="https://skillicons.dev/icons?i=html,css,javascript" height="35"> | <img src="https://skillicons.dev/icons?i=mysql" height="35"> | <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" height="35"> |
+
+---
+
+<div align="center">
+
+## 🌐 Networking & Cybersecurity
+
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="40">
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25">
+</p>
+
+<div align="center">
+
+- 🔍 Análisis de tráfico con **Wireshark**  
+- 🧠 Escaneo de redes con **Nmap**  
+- 🐧 Uso de **Kali Linux** para pruebas de seguridad  
+- 🌐 Configuración e interconexión de redes  
+- 🛡️ Fundamentos de ciberseguridad y hacking ético  
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Stats
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Popolita1939&show_icons=true&theme=tokyonight&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popolita1939&layout=compact&theme=tokyonight&hide_border=true" height="160">
+</p>
+
+---
+
+<div align="center">
+
+## 🎯 Current Focus
+
+</div>
+
+- 🔭 Desarrollo de software en **C#, C++ y Java**
+- 🌱 Aprendiendo **redes avanzadas y ciberseguridad**
+- 👯 Colaboración en proyectos de **backend y seguridad**
+- 💬 Pregúntame sobre **programación, redes y hacking ético**
+- 📫 Contacto: **zeoxtar@example.com**
+
+---
+
+<!-- ====== Banner inferior ====== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=120&section=footer&text=Stay%20Secure%20%F0%9F%9B%A1%EF%B8%8F&fontSize=35&fontColor=ffffff&animation=fadeIn" width="1000">
+</div>
