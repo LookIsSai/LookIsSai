@@ -37,7 +37,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="40">
+  <img src="https://skillicons.dev/icons?i=linux" height="25">
   <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white" height="25">
@@ -62,8 +62,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Popolita1939&show_icons=true&theme=tokyonight&hide_border=true" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popolita1939&layout=compact&theme=tokyonight&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=LookIsSai&show_icons=true&theme=tokyonight&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LookIsSai&layout=compact&theme=tokyonight&hide_border=true" height="160">
 </p>
 
 ---
