@@ -26,7 +26,7 @@
 
 | Programming | Web | Databases | Tools |
 |---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=cs,cpp,java" height="35"> | <img src="https://skillicons.dev/icons?i=html,css,javascript" height="35"> | <img src="https://skillicons.dev/icons?i=mysql" height="35"> | <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" height="35"> |
+| <img src="https://skillicons.dev/icons?i=cs,cpp,java" height="35"> | <img src="https://skillicons.dev/icons?i=html,css,javascript" height="35"> | <img src="https://skillicons.dev/icons?i=mysql" height="35"> | <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,wireshark" height="35"> |
 
 ---
 
